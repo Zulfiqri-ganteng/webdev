@@ -3,7 +3,7 @@
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title><?= $judul; ?> | SMK Galajuara</title>
+    <title><?= $judul; ?> | SMK Galajuara Kota Bekasi</title>
     
     <link href="<?= base_url('assets/css/bootstrap.min.css'); ?>" rel="stylesheet">
     
