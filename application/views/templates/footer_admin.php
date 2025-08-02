@@ -2,7 +2,7 @@
             <footer class="sticky-footer bg-white">
                 <div class="container my-auto">
                     <div class="copyright text-center my-auto">
-                        <span>Copyright &copy; SMK Galajuara <?= date('Y'); ?>, Design by <a href="https://www.instagram.com/zufieee/" target="_blank" rel="noopener noreferrer">Zulfiqri,S.Kom</a> </span>
+                        <span>Copyright &copy; SMK Galajuara <?= date('Y'); ?>, Design web By <a href="https://www.instagram.com/zufieee/" target="_blank" rel="noopener noreferrer">Zulfiqri,S.Kom</a> </span>
                     </div>
                 </div>
             </footer>
